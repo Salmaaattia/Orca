@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377135639500",
+    "firebase_url": "https://orca-f4339.firebaseio.com",
+    "project_id": "orca-f4339",
+    "storage_bucket": "orca-f4339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377135639500:android:b09a205ca479c7c27d0b69",
+        "android_client_info": {
+          "package_name": "com.orca.orca_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377135639500-iaipv5jn25ogiejtmckrda5gqru4i6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxPtTwsxrH8LYC75fu4L3YYlN334gyAuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377135639500-iaipv5jn25ogiejtmckrda5gqru4i6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
